@@ -31,3 +31,14 @@ _This text is in Italics_
 
 # Link
 [Peace Profile](https://github.com/johnogheneropeace)
+
+# Image
+![]()
+
+# Code and Syntax
+```python
+print("Hello, World")
+```
+
+# Tables
+
