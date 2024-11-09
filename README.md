@@ -9,6 +9,7 @@ This repo is to show how to use Mardown
 # Bold
 **This is Bold text**
 __This text is also Bold__
+This text is not bold
 
 # Italics
 _This text is in Italics_
