@@ -15,3 +15,16 @@ This text is not bold
 _This text is in Italics_
 
 # List
+**Un-ordered List**
+- one
+  - Nested one
+  - Nested two
+- Two
+  - Nested one
+  - Nested two
+- Three
+
+**Ordered List**
+1. List One
+2. List Two
+3. List Three
