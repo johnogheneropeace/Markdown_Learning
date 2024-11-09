@@ -41,4 +41,16 @@ print("Hello, World")
 ```
 
 # Tables
+Use Pipes and Dash
 
+| Name    |Role    | Department |
+|---------|--------|------------|
+|Peace    |Data Scientist|Health and AI|
+
+# Task List
+- [] Not Due
+- [x] Done
+
+# Horizontal Line
+___
+***
